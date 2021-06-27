@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "MiOAEYuxOBHYD3ex/oV2bDKdqnE6SLjYKniIXhxl0khjxJ28qbstuDt4f3DycKqRWN9BqMjkI106N8vJBtx90w==",
+  "success": true,
+  "projectFilePath": "/Users/Karel/Documents/GitHub/ExampleMediatR/ExampleMediatR/ExampleMediatR.csproj",
+  "expectedPackageFiles": [
+    "/Users/Karel/.nuget/packages/mediatr/9.0.0/mediatr.9.0.0.nupkg.sha512",
+    "/Users/Karel/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/9.0.0/mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
+    "/Users/Karel/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/5.0.0/microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
